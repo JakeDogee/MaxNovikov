@@ -12,7 +12,4 @@ public class DemoApplication {
         Pet pet = context.getBean(Pet.class);
         pet.printPet();
     }
-
-
-
 }
